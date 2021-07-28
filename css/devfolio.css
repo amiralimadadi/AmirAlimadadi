@@ -1,0 +1,87 @@
+/*******************************/
+/********** skillsection CSS **********/
+/*******************************/
+.skillsection {
+    position: relative;
+    width: 100%;
+    /* margin: -45px 0 45px 0; */
+}
+
+.skillsection .col-lg-5 {
+    padding: 0;
+}
+.skillsection .col-lg-6 {
+    padding: 0;
+}
+.skillsection .col-lg-7 {
+    padding: 0;
+}
+
+.skillsection .section-header {
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+}
+
+.skillsection .about-img {
+    position: relative;
+    height: 100%;
+}
+
+.skillsection .about-img img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.skillsection .about-content {
+    padding: 0 60px;
+}
+
+.skillsection .about-text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.skillsection .skills {
+    margin-bottom: 30px;
+}
+
+.skillsection .skill-name {
+    margin-top: 15px;
+}
+
+.skillsection .skill-name p {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.skillsection .skill-name p:last-child {
+    float: right;
+}
+
+.skillsection .progress {
+    height: 10px;
+    border-radius: 10px;
+    background: #dddddd;
+}
+
+.skillsection .progress .progress-bar {
+    width: 0px;
+    background: #0b36a8;
+    border-radius: 10px;
+    transition: 2s;
+}
+
+.skillsection .about-text a.btn {
+    margin-top: 15px;
+}
+
+@media (max-width: 991.98px) {
+    .about .about-content {
+        padding: 45px 15px 0 15px;
+    }
+}
+
