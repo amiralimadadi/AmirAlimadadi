@@ -602,9 +602,9 @@ input[type='checkbox'] {
 
 .basic-2 .text-box {
 	margin-bottom: 3rem;
-	padding: 2.125rem 1rem 2.125rem 1rem;
+	padding: 2.125rem 1rem 1.125rem 1rem;
 	border: 1px solid #cfd7de;
-	min-height: 400px;
+	min-height: 370px;
 }
 
 .basic-2 .fas,
