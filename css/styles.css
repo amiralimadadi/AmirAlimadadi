@@ -703,6 +703,12 @@ input[type='checkbox'] {
 	text-align: center;
 }
 
+.basic-4 .p-heading {
+	margin-bottom: 3rem;
+	text-align: center;
+}
+
+
 .basic-4 {
 	padding-bottom: 1rem;
 	padding-top: 4.5rem;
