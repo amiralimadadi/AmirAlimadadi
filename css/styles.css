@@ -721,6 +721,8 @@ input[type='checkbox'] {
 	overflow: hidden;
 	margin-right: auto;
 	margin-left: auto;
+	min-height: 10rem;
+	border: 1px solid #cfd7de;
 }
 
 .basic-4 .image-container img {
