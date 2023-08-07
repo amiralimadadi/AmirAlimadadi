@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 --->
 
 - 🔭 I’m currently working on DataScience and Erp projects
-- 🌱 I’m currently learning Machin learning
+- 🌱 I am currently doing projects abroad as a freelancer
 - ⚡ Fun fact: Googling is a programming skill!
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
